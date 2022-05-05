@@ -1,9 +1,10 @@
 ---
+title: Welcome to Jekyll!
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-05-04 20:43:55 +0200
+date: '2022-05-04 20:43:55 +0200'
 categories: jekyll update
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -21,6 +22,46 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+<h1>{{ page.title }}</h1>
+
+# Why?
+#### Because!
+# no!
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+>
+> 1. hey
+> 2. how
+>
+>    hew
+
+*   Red
+*   Green
+*   Blue
+
+1.    Bird
+1.    Parish
+
+*   Bird
+
+*   Magic
+
+*   Bird
+*   Magic
+
+*   A list item with a code block:
+
+        <code goes here>
+
+*****
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
+
+This is [an example][id] reference-style link.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

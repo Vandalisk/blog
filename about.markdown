@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="avatar">
+  <img src="/assets/images/profile_photo1.jpg" alt="Ilya Zakharov">
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Welcome to my personal website.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Ilya Zakharov.
 
+This is the place where I am going to share some of my thoughts that I find interesting.
 
-[jekyll-organization]: https://github.com/jekyll
+Below you can see links to my social media to follow more of my content or to reach me out.
